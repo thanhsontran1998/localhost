@@ -1,0 +1,2 @@
+# localhost
+safelink
